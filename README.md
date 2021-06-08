@@ -1,4 +1,4 @@
-# ComputerGrahics_CS105.L21.KHCL
+# ComputerGraphics_CS105.L21.KHCL
 
 Nội dung bài tập, đồ án của môn Computer Graphics (Đồ họa máy tính) - CS105
 
