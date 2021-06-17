@@ -62,9 +62,9 @@ void CMFCApplication1View::OnDraw(CDC* pDC)
 	if (!pDoc)
 		return;
 	// TODO: add draw code for native data here
-	LineDDA1(pDC, 200, 200, 400, 700, RGB(255, 0, 0));
-	LineDDA2(pDC, 200, 200, 400, 700, RGB(0, 255, 0));
-	LineBresenham(pDC, 200, 200, 400, 700, RGB(0, 0, 255));
+	LineDDA1(pDC, 250, 200, 410, 600, RGB(255, 0, 0));
+	LineDDA2(pDC, 250, 200, 450, 700, RGB(0, 255, 0));
+	LineBresenham(pDC, 250, 200, 400, 500, RGB(0, 0, 255));
 }
 
 
