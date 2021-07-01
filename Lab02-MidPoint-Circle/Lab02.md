@@ -8,6 +8,6 @@
  ![alt text](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/blob/main/Lab01-LineDDA-LineBresenham/Create%20MFC%20App.png)
  - Implement Midpoint circle drawing function.
  
- ![alt text](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/blob/main/Lab02/MiddlePoint.png)
+ ![alt text](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/blob/main/Lab02-MidPoint-Circle/MiddlePoint.png)
  
  - (x = 350, y = 200, r = 180, color = RGB(255, 125, 125))
