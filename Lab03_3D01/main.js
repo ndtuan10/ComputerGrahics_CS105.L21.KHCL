@@ -63,16 +63,3 @@ function init() {
   }
     
   init();
-
-
-
-
-
-
-
-
-
-
-
-
-
