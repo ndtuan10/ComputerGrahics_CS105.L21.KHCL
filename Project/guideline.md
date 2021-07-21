@@ -7,3 +7,5 @@
   -	4/ Affine Transforms (các phép biến đổi affine): gồm các phép cơ bản scale (thay đổi kích thước), rotation (quay), translation (tịnh tiến) theo cả 3 trục x, y, z.
   - 5/ Light Control: thay đổi vị trí của nguồn sáng (position, rotation), thay đổi độ sáng của nguồn sáng (power), thay đổi màu sắc của nguồn sáng  (theo hệ màu Hex).
 
+ ![alt text](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/blob/main/Project/Images/display.png)
+
